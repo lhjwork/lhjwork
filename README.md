@@ -1,12 +1,10 @@
 
 #  WElCOME TO MY PROJECTS😊
 
-👋 Hi there! I'm backEnd developer using Python.💻 <br>
-
-Sometimes I develop react and react-native .<br>
-
-I enjoy hanging out with my friend by beer. 🍻<br>
-I hope to develop every special things💭🧠🫀<br>
+<h2 align="center">👋 Hi there! I'm backEnd developer using Python.💻</h2><br>	
+<h2 align="center">Sometimes I develop react and react-native</h2><br>
+<h2 align="center">I enjoy hanging out with my friend by beer.🍻</h2><br>
+<h2 align="center">I hope to develop every special things💭🧠🫀</h2><br>
 
 
 <br><br><br><br>
@@ -32,12 +30,11 @@ I hope to develop every special things💭🧠🫀<br>
 <br><br><br><br>
 
 <div align="center">
-	
-#	🔤 top-langs 🔤
-
+<h3 align="center">🔤 top-langs 🔤</h3>	
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhjwork&layout=compact">
 
 <br><br><br><br>
-#	📝 readme-stat 📝
+#	
+<h3 align="center">📝 readme-stat 📝</h3>	
 <img src="https://github-readme-stats.vercel.app/api?username=lhjwork&show_icons=true">
 </div>
