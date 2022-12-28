@@ -30,8 +30,10 @@ I hope to develop every special things💭🧠🫀
 
 <br><br><br><br>
 
-#	🔤 top-langs 🔤
 <div align="center">
+	
+#	🔤 top-langs 🔤
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhjwork&layout=compact">
 
 <br><br><br><br>
