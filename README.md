@@ -1,6 +1,8 @@
 
 #  WElCOME TO MY PROJECTS😊
 
+<br><br><br><br>
+
 <div align="center">👋 Hi there! I'm backEnd developer using Python.💻</div>	
 <div align="center">Sometimes I develop react and react-native</div>
 <div align="center">I enjoy hanging out with my friend by beer.🍻</div>
