@@ -1,4 +1,6 @@
-### Hi there 👋
+###  WElCOME TO MY PROJECTS👋
+
+
 
 
 
@@ -14,8 +16,16 @@
 	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
 	<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" />
-</div>
+
+
+
+
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhjwork&layout=compact"><br><br>
+
+
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=lhjwork&show_icons=true">
+</div>
