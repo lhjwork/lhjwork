@@ -1,7 +1,11 @@
 
-#  WElCOME TO MY PROJECTS👋	
+#  WElCOME TO MY PROJECTS😊
 
+👋 Hi there! I'm backEnd developer using Python.💻 
+Sometimes I develop react and react-native .
 
+I enjoy hanging out with my friend by beer. 🍻
+I hope to develop every special things💭🧠🫀
 
 
 <br><br><br><br>
@@ -23,12 +27,14 @@
 	
 </div>
 
+
 <br><br><br><br>
 
+#	🔤 top-langs 🔤
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhjwork&layout=compact">
 
 <br><br><br><br>
-
+#	📝 readme-stat 📝
 <img src="https://github-readme-stats.vercel.app/api?username=lhjwork&show_icons=true">
 </div>
