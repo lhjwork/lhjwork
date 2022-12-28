@@ -1,10 +1,10 @@
 
 #  WElCOME TO MY PROJECTS😊
 
-<h2 align="center">👋 Hi there! I'm backEnd developer using Python.💻</h2><br>	
-<h2 align="center">Sometimes I develop react and react-native</h2><br>
-<h2 align="center">I enjoy hanging out with my friend by beer.🍻</h2><br>
-<h2 align="center">I hope to develop every special things💭🧠🫀</h2><br>
+<div align="center">👋 Hi there! I'm backEnd developer using Python.💻</div><br>	
+<div align="center">Sometimes I develop react and react-native</div><br>
+<div align="center">I enjoy hanging out with my friend by beer.🍻</div><br>
+<div align="center">I hope to develop every special things💭🧠🫀</div><br>
 
 
 <br><br><br><br>
