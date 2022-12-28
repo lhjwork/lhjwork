@@ -1,11 +1,12 @@
 
 #  WElCOME TO MY PROJECTS😊
 
-👋 Hi there! I'm backEnd developer using Python.💻 
-Sometimes I develop react and react-native .
+👋 Hi there! I'm backEnd developer using Python.💻 <br>
 
-I enjoy hanging out with my friend by beer. 🍻
-I hope to develop every special things💭🧠🫀
+Sometimes I develop react and react-native .<br>
+
+I enjoy hanging out with my friend by beer. 🍻<br>
+I hope to develop every special things💭🧠🫀<br>
 
 
 <br><br><br><br>
