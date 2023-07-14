@@ -37,7 +37,4 @@
 
 <br><br><br><br>
 
-<h3 align="center">📝 readme-stat 📝</h3>	
-<img src="https://github-readme-stats.vercel.app/api?username=lhjwork&show_icons=true">
-</div>
 </div>
