@@ -1,8 +1,6 @@
 
 #  WElCOME TO MY PROJECTS😊
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=random&height=100&section=header&text= JIN's Record &fontSize=40" />
-
 <br><br><br><br>
 
 <div align="center">👋 Hi there! I'm backEnd developer using Python.💻</div>	
