@@ -2,26 +2,26 @@
 
 # 🌳 Welcome to My World
 
-> **Frontend Developer** with **Fullstack Potential** · lhjwork  
-> *I hope to develop special things that touch people's hearts.* 💭🧠🫀
+> **프론트엔드 개발자**이자 **풀스택 성장 가능성 보유** · lhjwork  
+> *사람들의 마음에 닿는 특별한 것을 만들고 싶습니다.* 💭🧠🫀
 
 </div>
 
 ---
 
-## 🙋‍♂️ Hi there!
+## 🙋‍♂️ 안녕하세요!
 
-I am a **Frontend Developer** specializing in **React** & **Next.js**.  
-I also have experience with **Node.js** & **Python** backends and am growing toward fullstack.  
-I enjoy hanging out with friends with a cold beer. 🍻
+저는 **React**와 **Next.js**를 주로 사용하는 프론트엔드 개발자입니다.  
+동시에 **Node.js**와 **Python** 기반 백엔드 경험이 있어 풀스택으로 성장 중입니다.  
+가끔은 친구들과 시원한 맥주 한잔을 즐깁니다. 🍻
 
-**🔗 Links**  
-- 🏠 My Blog: https://www.hj-s.site/  
-- 📄 Resume: https://www.notion.so/a9e0e2fea0af4e159b108cfba051d7cb
+**🔗 링크**  
+- 🏠 블로그: https://www.hj-s.site/  
+- 📄 이력서(노션): https://www.notion.so/a9e0e2fea0af4e159b108cfba051d7cb
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 기술 스택
 
 <div align="center">
 
@@ -58,9 +58,9 @@ I enjoy hanging out with friends with a cold beer. 🍻
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub 통계
 
-> Coding Activity & Summary
+> 활동 요약 및 주요 지표
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/lhjwork?label=Followers&style=for-the-badge&logo=github&color=blue" alt="Followers" />
@@ -71,5 +71,9 @@ I enjoy hanging out with friends with a cold beer. 🍻
 <br/>
 
 <div align="center">
-  <em>For detailed language breakdown and activity stats, consider self-hosting <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> on Vercel.</em>
+  <em>상세한 언어별 분석과 활동 통계를 원하시면 <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>를 Vercel에 직접 배포(self-host)해 사용하실 것을 권장합니다.</em>
 </div>
+
+<!-- 원래 사용하던 카드(서비스가 작동 중일 때 보임) -->
+![lhjwork의 GitHub 통계](https://github-readme-stats-sigma-five.vercel.app/api?username=lhjwork&show_icons=true&theme=radical)
+![lhjwork의 Top 언어들](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lhjwork&layout=compact&theme=radical)
