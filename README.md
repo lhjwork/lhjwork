@@ -57,10 +57,23 @@ I enjoy hanging out with friends with a cold beer. 🍻
 </div>
 
 ---
-
 ## 📊 GitHub Stats
 
-> Coding Activity, Language Breakdown & Rank
+> Coding Activity, Language Breakdown & Rank (temporary badges while stats service is paused)
+
+<div align="center">
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/lhjwork?label=Followers&style=for-the-badge&logo=github" alt="Followers" />
+  &nbsp;
+  <!-- Stars for this repo -->
+  <img src="https://img.shields.io/github/stars/lhjwork/letter-my-backend?label=Repo%20Stars&style=for-the-badge&logo=github" alt="Repo Stars" />
+  &nbsp;
+  <!-- Top language for this repo -->
+  <img src="https://img.shields.io/github/languages/top/lhjwork/letter-my-backend?label=Top%20Language&style=for-the-badge" alt="Top language" />
+  &nbsp;
+  <!-- Commit activity (last year) as sparkline - repo-specific -->
+  <img src="https://img.shields.io/github/commit-activity/y/lhjwork/letter-my-backend?label=Commit%20Activity&style=for-the-badge" alt="Commit activity" />
+</div>
 
 <div align="center">
   <!-- Rank (A+, A, B 등)을 보려면 show_rank=true 추가 -->
