@@ -89,6 +89,10 @@ DevOps & Tools
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&amp;logo=jira&amp;logoColor=white" alt="Jira">
 
 📊 GitHub Analytics
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lhjwork&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true" alt="lhjwork's GitHub stats">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lhjwork&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Top Langs">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lhjwork&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak">
 
 🏆 GitHub Trophies
