@@ -33,8 +33,10 @@ I enjoy hanging out with friends with a cold beer. 🍻
 
 > *Coding Activity & Languages*
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lhjwork&show_icons=true&theme=dracula&hide_border=true" height="160"# 🌳 Welcome to My World
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lhjwork&show_icons=true&theme=dracula&hide_border=true" height="180" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-# 🌳 Welcome to My World
 
 > **Frontend Developer** with **Fullstack Potential** @ **lhjwork**  
 > *I hope to develop special things that touch people's hearts.* 💭🧠🫀
