@@ -67,12 +67,3 @@ I enjoy hanging out with friends with a cold beer. 🍻
 
 <br/>
 
-## 📊 GitHub Stats
-
-> *Coding Activity & Languages*
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lhjwork&show_icons=true&theme=dracula&hide_border=true" height="180" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhjwork&layout=compact&theme=dracula&hide_border=true" height="180" />
-</div>
