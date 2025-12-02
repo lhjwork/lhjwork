@@ -2,8 +2,8 @@
 
 # 🌳 Welcome to My World
 
-> **프론트엔드 개발자**이자 **풀스택 성장 가능성 보유** · lhjwork  
-> *사람들의 마음에 닿는 특별한 것을 만들고 싶습니다.* 💭🧠🫀
+> **의미있는 코드를 지향하는 개발자 **. Jin 입니다.  
+> ** 💭🧠
 
 </div>
 
@@ -70,9 +70,6 @@
 
 <br/>
 
-<div align="center">
-  <em>상세한 언어별 분석과 활동 통계를 원하시면 <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>를 Vercel에 직접 배포(self-host)해 사용하실 것을 권장합니다.</em>
-</div>
 
 <!-- 원래 사용하던 카드(서비스가 작동 중일 때 보임) -->
 ![lhjwork의 GitHub 통계](https://github-readme-stats-sigma-five.vercel.app/api?username=lhjwork&show_icons=true&theme=radical)
